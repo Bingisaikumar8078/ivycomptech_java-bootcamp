@@ -1,4 +1,4 @@
-package com.ivycomptech.Day7;
+package com.ivycomptech.Day7.inheritance;
 
 public class Omnivores extends Animal {
     @Override

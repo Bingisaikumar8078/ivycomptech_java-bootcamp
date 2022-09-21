@@ -1,6 +1,4 @@
-package com.ivycomptech.Day7;
-
-import com.ivycomptech.Omnivores;
+package com.ivycomptech.Day7.inheritance;
 
 public class Driver {
     public static void main(String[] args) {

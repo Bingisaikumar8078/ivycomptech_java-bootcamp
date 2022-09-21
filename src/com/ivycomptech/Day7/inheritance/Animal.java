@@ -1,4 +1,4 @@
-package com.ivycomptech.Day7;
+package com.ivycomptech.Day7.inheritance;
 
 //Animal  Herbivores, Carnivores, and Omnivores eats(){//eats?}
     // try to exhibit the Runtime polymorphism
