@@ -20,7 +20,8 @@ public class Euro {
         return Objects.hash(value);
     }
 
-    public Euro(int value) {
+    public Euro(int value)
+    {
         this.value = value;
     }
 
